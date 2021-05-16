@@ -14,16 +14,7 @@
 
 - 📫 You can email me at **kibetamos97@gmail.com**
 
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amos-kibet&show_icons=true" alt="Amos Kibet" /> </p>
-
-
-<p align="center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amos-kibet" alt="Most used langs />
-</p>
-
-
 
 <p align="center">
 <!--
