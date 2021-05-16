@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Amos Kibet</h1>
-<h3 align="center">A passionate Software Engineering student from Kenya</h3>
+<h3 align="center">Technology enthusiast with a desire and passion to use technology for social good; building products that solve every day societal challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amos-kibet" alt="Amos Kibet" /> </p>
 
-- 🔭 I’m studying at
+- 🔭 Currently studying at
 [University of the People](https://uopeople.edu)
 
 <!---
 - 📝 Read my articles on hashnode.
 [jennykibiri.hashnode.dev](https://jennykibiri.hashnode.dev/)
 --->
-- 💬 Ask me about **Nodejs, JavaScript, Java, Python & Electronics**
+- 💬 Chat me about **Industrial Automation, Open Source contributions & Volunteering**
 
 - 📫 You can email me at **kibetamos97@gmail.com**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amos-kibet&show_icons=true" alt="Amos Kibet" /> </p>
-<!---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amos-kibet)](https://github.com/amos-kibet/github-readme-stats)
---->
+
 
 <p align="center">
 <!--
