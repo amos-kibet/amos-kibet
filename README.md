@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amos Kibet</h1>
-<h3 align="center">Technology enthusiast with a desire and passion to use technology for social good; building products that solve every day societal challenges.</h3>
+<h3 align="center">Technology Lover.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amos-kibet" alt="Amos Kibet" /> </p>
 
