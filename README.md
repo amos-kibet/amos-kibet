@@ -10,7 +10,7 @@
 - 📝 Read my articles on hashnode.
 [jennykibiri.hashnode.dev](https://jennykibiri.hashnode.dev/)
 --->
-- 💬 Chat me about **Industrial Automation, Open Source contributions & Volunteering**
+- 💬 Chat me about **Backend Development, IoT/IIOT/IoMT, Electrical Engineering & Volunteering**
 
 - 📫 You can email me at **kibetamos97@gmail.com**
 
