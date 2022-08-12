@@ -6,11 +6,7 @@
 - 🔭 Currently studying at
 [University of the People](https://uopeople.edu)
 
-<!---
-- 📝 Read my articles on hashnode.
-[jennykibiri.hashnode.dev](https://jennykibiri.hashnode.dev/)
---->
-- 💬 Chat me about **Backend Development, IoT/IIoT/IoMT, Electrical Engineering & Volunteering**
+- :hammer: **JavaScript (NodeJS), Elixir (PETAL), Python (Flask, Django), IoT/IIoT/IoMT, Electrical Engineering & Open Source Contributing**
 
 - 📫 You can email me at **kibetamos97@gmail.com**
 
@@ -18,11 +14,7 @@
 
 <p align="center">
 <!--
-<a href="https://twitter.com/kibiri_jenny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kibiri_jenny" height="20" width="20" /></a>
--->
-<a href="https://linkedin.com/in/amos-kibet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Amos Kibet" height="20" width="20" /></a>
+<a href="https://twitter.com/username-here" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="username-here" height="20" width="20" /></a>
 
-<!--
-<a href="https://fb.com/jeniffer kibiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jeniffer kibiri" height="20" width="20" /></a>
-</p>
+<a href="https://linkedin.com/in/amos-kibet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Amos Kibet" height="20" width="20" /></a>
 -->
