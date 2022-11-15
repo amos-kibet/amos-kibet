@@ -1,4 +1,4 @@
-<h1 align="center">Amos Kibet Here 👻</h1>
+<h1 align="center">Kibet Here 👻</h1>
 <h3 align="center">Technology Lover.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amos-kibet" alt="Amos Kibet" /> </p>
